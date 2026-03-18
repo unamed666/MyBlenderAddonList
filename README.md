@@ -9,7 +9,7 @@
 - [Robust Weight Transfer](https://github.com/sentfromspacevr/robust-weight-transfer)
 - [ucupaint](https://github.com/ucupumar/ucupaint)
 
-# My Paint.NET Addonn LIst
+# My Paint.NET Addon List
 - [BoltBaitPack](https://forums.getpaint.net/BoltBaitPluginPack)
 - [GifEditor](https://forums.getpaint.net/topic/118869-gif-animations-and-images-filetype-plugin-gif-agif-latest-v15-2021-11-16/)
 - [IcoCur](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/#comment-514467)
